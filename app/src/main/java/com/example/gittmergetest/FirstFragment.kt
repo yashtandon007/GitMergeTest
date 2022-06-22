@@ -12,8 +12,11 @@ import com.example.gittmergetest.databinding.FragmentFirstBinding
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
 class FirstFragment : Fragment() {
+<<<<<<< HEAD
     //testfrom
+=======
     //comitfromweb
+>>>>>>> 32e8bad6b717f4650f93c56638308b3ecabcecb9
 
     private var _binding: FragmentFirstBinding? = null
 
