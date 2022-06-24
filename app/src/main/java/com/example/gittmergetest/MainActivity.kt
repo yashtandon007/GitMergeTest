@@ -59,5 +59,6 @@ class MainActivity : AppCompatActivity() {
 //master change 3
         //master change 4
             //from new branch
+        //new branch change2
     }
 }
