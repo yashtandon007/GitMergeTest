@@ -56,5 +56,6 @@ class MainActivity : AppCompatActivity() {
                 || super.onSupportNavigateUp()
       //child changed
       //child new code added
+        //child new code added again
     }
 }
