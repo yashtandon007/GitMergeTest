@@ -55,5 +55,6 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration)
                 || super.onSupportNavigateUp()
       //child
+      //child new code added
     }
 }
