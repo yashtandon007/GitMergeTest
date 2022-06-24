@@ -54,12 +54,6 @@ class MainActivity : AppCompatActivity() {
         val navController = findNavController(R.id.nav_host_fragment_content_main)
         return navController.navigateUp(appBarConfiguration)
                 || super.onSupportNavigateUp()
-            //master change 1
-        //master change 2
-//master change 3
-        //master change 4
-            //from new branch
-        //new branch change2
-        //master change
+        //b1
     }
 }
