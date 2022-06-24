@@ -55,6 +55,6 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration)
                 || super.onSupportNavigateUp()
             //from new branch
-        //from new branch change2
+        //new branch change2
     }
 }
